@@ -1,0 +1,10 @@
+date,type,amount,category,description,method
+01-10-2026,income,18000,Stipend,October stipend,Net Banking
+02-10-2026,expense,6500,Rent,PG rent,Net Banking
+03-10-2026,expense,"1,240.50",Groceries,Monthly groceries,UPI
+04-10-2026,expense,180,Food,Canteen lunch,UPI
+05-10-2026,expense,abc,Food,Typo in amount,UPI
+06-10-2026,expense,450,Pizza,Unknown category,Card
+07-10-2026,expense,95,Transport,Metro,UPI
+08-10-2026,expense,-20,Food,Negative amount,Cash
+09-10-2026,expense,299,Bills & Utilities,Mobile recharge,UPI
